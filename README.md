@@ -1,4 +1,5 @@
-# Project is for absolutely obliterating your pc
-# The data is that there is no data
-# Brick your pc for fun
-# acd5922@psu.edu
+Is-this-thing-on?
+-Project to make your pc "faster"
+-Data is there is no data
+-Purely for entertainment
+-acd5922@psu.edu
